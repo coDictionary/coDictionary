@@ -1,10 +1,10 @@
 # About Me
-#  Hi there 👋, I'm the Owner of coDictionary 
-#  I'm still a student now 
-#  I'm learning kotlin btw 
+###  Hi there 👋, I'm the Owner of coDictionary 
+###  I'm still a student now 
+###  I'm learning kotlin btw 
 
 ## What am I doing?
-#  Just a Little Fuckin Project
+###  Just a Little Fuckin Project
 <!--
 **coDictionary/coDictionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
