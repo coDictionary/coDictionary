@@ -1,7 +1,7 @@
 # About Me
-  Hi there 👋, I'm the Owner of coDictionary
-  I'm still a student now
-  I'm learning kotlin btw
+  Hi there 👋, I'm the Owner of coDictionary \n
+  I'm still a student now \n
+  I'm learning kotlin btw \n
 
 ## What am I doing?
   Just a Little Fuckin Project
