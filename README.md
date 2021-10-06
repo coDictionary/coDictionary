@@ -1,12 +1,18 @@
 # About Me
 
 ## Profile
+
 ####  🤝 Hi there 👋, I'm the Owner of coDictionary 
 ####  👨🏼‍🎓 I'm still a student now 
 ####  📑 I'm learning kotlin btw 
 
+## My Plan
+
+#### Proficient in several programming languages and understand the syntax of their functions
+
 ## What am I doing?
-####  Just a Little Fuckin Project
+
+####  Working on some android application projects
 <!--
 **coDictionary/coDictionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
