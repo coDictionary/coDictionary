@@ -2,7 +2,7 @@
 
 ## Profile
 
-####  🤝 Hi there 👋, I'm the Owner of coDictionary 
+####  👋 Hi there , I'm the Owner of coDictionary 
 ####  👨🏼‍🎓 I'm still a student now 
 ####  📑 I'm learning kotlin btw 
 
