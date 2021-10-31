@@ -1,4 +1,4 @@
-![coDictionary](https://i.morioh.com/200525/e5f31488.jpg)
+![coDictionary](https://miro.medium.com/max/8418/1*K__YGB4eb12WKTRwpvAuhg.png)
 
 ## Profile
 
