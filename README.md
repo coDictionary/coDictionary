@@ -1,10 +1,10 @@
 ![coDictionary](https://miro.medium.com/max/8418/1*K__YGB4eb12WKTRwpvAuhg.png)
 
-## Profile
+## MyProfile
 
-####  👋 Hi there , I'm the Owner of coDictionary 
-####  👨🏼‍🎓 I'm still a student now 
-####  📑 I'm learning kotlin btw 
+- 👋 Hi there , My name Farhan Muhammad Iqbal
+- 👨🏼‍🎓 I'm still a student now 
+- 📑 I'm learning kotlin btw 
 
 ## My Plan
 
@@ -13,6 +13,9 @@
 ## What am I doing?
 
 ####  Working on some android application projects
+
+
+
 <!--
 **coDictionary/coDictionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
